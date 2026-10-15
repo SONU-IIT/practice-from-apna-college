@@ -1,0 +1,33 @@
+from numpy import rint
+
+
+name = "sonu"
+#print(type(name))
+rs = 3.99 
+#print(type(rs))
+milk_is_white = True
+#print(type(milk_is_white))
+yes = True
+#print(type(yes))
+
+a = None
+print(type(a))
+
+#print("i'm a comment")
+name = "vaishnavi"
+#print(name)
+#comment
+name = "sonu"
+#print(name)
+
+
+#relational operators
+a = 20 
+b =10
+#print(a == b) #this will be false, bcz it's not equal
+#print(a != b) #this will be true, bcz it's not equal
+#print(a >= b ) #true, bcz a is greater than b
+# print (a > b) #it's also true, bcz a is greater than b
+#print(a <= b) #false, bcz b is not greater tha n b
+#print(a<b) #false, bcz b is not grater than a
+#just trying to run code for github print(a + b)  # 30 true, bcz it's right
